@@ -1,0 +1,8 @@
+this is a text file
+
+that i will edit
+
+to see if there are differences
+ 
+
+this is the first addition
